@@ -6,6 +6,7 @@ Updating and Coming soon...
 
 - [pytorch/pushdeer_notify](./python/pytorch/pushdeer_notify.py)
 - [pytorch/tqdm_pbar](./python/pytorch/tqdm_pbar.py)
+- [common/argparse](./python/common/argparse.py)
 
 ## GoLang Snippets List
 
@@ -16,6 +17,10 @@ Updating...
 Updating...
 
 ## TypeScript Snippets List
+
+Updating...
+
+## LaTeX Snippets List
 
 Updating...
 
