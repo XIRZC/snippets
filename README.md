@@ -7,6 +7,7 @@ Updating and Coming soon...
 - [pytorch/pushdeer_notify](./python/pytorch/pushdeer_notify.py)
 - [pytorch/tqdm_pbar](./python/pytorch/tqdm_pbar.py)
 - [common/argparse](./python/common/argparse.py)
+- [common/gradio_app](./python/common/gradio_app.py)
 
 ## GoLang Snippets List
 
